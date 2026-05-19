@@ -1,0 +1,7 @@
+memento\ContratoEstadoCancelado.class
+memento\ContratoEstadoAprovado.class
+memento\ContratoEstadoRascunho.class
+memento\Contrato.class
+memento\ContratoEstadoAssinado.class
+memento\ContratoEstado.class
+memento\ContratoEstadoEmRevisao.class
